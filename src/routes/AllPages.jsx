@@ -14,7 +14,7 @@ export default function AllPages(){
         }}
        >
 
-        <stack.Screen name = "Start" component = {Start} />
+        <Stack.Screen name = "Start" component = {Start} />
       </Stack.Navigator>
     </NavigationContainer>  
   );
